@@ -1,0 +1,5 @@
+# Redirects from what the browser requests to what we serve
+
+/home /
+/fiets https://www.anwb.nl/fiets
+/auto /https://www.anwb.nl/auto
